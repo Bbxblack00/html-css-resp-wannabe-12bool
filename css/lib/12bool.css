@@ -12,7 +12,7 @@
   margin: 0 auto;
 }
 
-.container::after{
+.row::after{
   content: "";
   display: table;
   clear: both;
@@ -129,7 +129,7 @@
 
 
 /* MEDIUM DEVICE SREEN */
-@media all and (max-width: 991px) and (min-width: 768px;) {
+@media all and (max-width: 991px) and (min-width: 768px) {
 
   /* REGOLE DELLE COLONNE */
   .col-md-1{

@@ -37,11 +37,7 @@
 }
 
 /* COMMON */
-.row::after {
-  content: '';
-  display: table;
-  clear: both;
-}
+
 
 .container.grey {
   background-color: #f9f9f9;
